@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661209257 source:d:\marek\cpp\f1\main.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<time.h>
+	<sstream>
+	<algorithm>
+
